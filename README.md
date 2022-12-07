@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
+</div>  
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
