@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdemartino93" alt="gdemartino93" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, React**
+- 🌱 I’m currently learning **MySQL, React**
 
 - 📫 How to reach me **g.demartino9393@gmail.com**
 
