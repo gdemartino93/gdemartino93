@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdemartino93&label=Profile%20views&color=0e75b6&style=flat" alt="gdemartino93" /> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemartino93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdemartino93" alt="gdemartino93" /></a> </p>
 
