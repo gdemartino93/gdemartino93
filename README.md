@@ -1,7 +1,4 @@
-<div align="center">
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
-</div>  
+<p align="center"> <img src="https://media0.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif?cid=ecf05e477778wzsjdsokzg120inxjy6p1vrcqxhziccn06y6&rid=giphy.gif&ct=g" alt="gdemartino93" /> </p>
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
