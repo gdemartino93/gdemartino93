@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdemartino93" alt="gdemartino93" /></a> </p>
 
-- 🌱 I’m currently learning **C#, .NET, Angualar**
+- 🌱 I’m currently learning **C#, .NET, Angular**
 
 - 📫 How to reach me **g.demartino9393@gmail.com**
 
