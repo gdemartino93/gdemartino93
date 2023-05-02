@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdemartino93&label=Profile%20views&color=0e75b6&style=flat" alt="gdemartino93" /> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemartino93&hide_progress=false&layout=compact)](https://github.com/gdemartino93/github-readme-stats)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gdemartino93&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdemartino93" alt="gdemartino93" /></a> </p>
 
